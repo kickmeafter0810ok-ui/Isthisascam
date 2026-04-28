@@ -26,7 +26,7 @@ export default function DeleteData() {
               </div>
               <div>
                 <p className="text-white font-medium mb-1">Option 2 — Email</p>
-                <p>Send a deletion request to <span className="text-blue-400">[kickmeafter0810ok@gmail.com]</span> with the subject line "Data Deletion Request". Include your anonymous device ID if known (found in app settings).</p>
+                <p>Send a deletion request to <span className="text-blue-400">[isthisascam.my@gmail.com]</span> with the subject line "Data Deletion Request". Include your anonymous device ID if known (found in app settings).</p>
               </div>
             </div>
           </section>
@@ -64,7 +64,7 @@ export default function DeleteData() {
           <section>
             <h2 className="text-white font-semibold text-base mb-3">Contact</h2>
             <p>JAGA Technologies<br />
-            <span className="text-blue-400">[kickmeafter0810ok@gmail.com]</span></p>
+            <span className="text-blue-400">[isthisascam.my@gmail.com]</span></p>
           </section>
 
         </div>
